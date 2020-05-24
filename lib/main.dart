@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Yeelight Flutter Demo',
+      title: 'Yeelight Flutter Demo - test',
       theme: ThemeData(
         // This is the theme of your application.
         //
